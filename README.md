@@ -75,8 +75,6 @@ Once Jupyter is opened:
 ### Single Agent Real-Time Face Detection
 https://github.com/user-attachments/assets/9795ec71-89dc-4773-aaf7-fb673ae04f24
 
-</br>
-
 ### Milti-Agent Real-Time Face Detection
 https://github.com/user-attachments/assets/633b802e-091c-4ecf-99d9-35609fcb75f1
 
