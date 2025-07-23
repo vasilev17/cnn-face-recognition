@@ -14,11 +14,11 @@
 
 ## 📜 Key Features
 
-- **Data Ingestion** - Converts raw face images into clean, labelled **train** / **val** / **test** splits
+- **Data Ingestion** - Converts raw face images into clean, labelled **train** / **val** / **test** splits.
 
-- **Real-World Image Dataset** – Classification task done on [VGGFace2](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)
+- **Real-World Image Dataset** – Classification task done on [VGGFace2](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/).
   
-- **Performance Evaluation** – Accuracy visualization plots
+- **Performance Evaluation** – Accuracy visualization plots.
   
 - **Real-Time Detection** – [OpenCV](https://opencv.org/) demo that detects one and multiple agents' faces live.
   
